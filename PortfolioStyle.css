@@ -38,7 +38,7 @@ body {
 }
 
 /* Video */
-#Clouds_Video {
+#Clouds2_Video {
 	position: fixed; /* This fixes our video to the page  */
 	right: 0; /* This ensures no space between the edge of the video and the edge of the page */
 	bottom: 0; /* This ensures no space between the edge of the video and the edge of the page */
